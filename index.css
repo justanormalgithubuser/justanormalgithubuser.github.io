@@ -2,11 +2,11 @@ body {
   background-color: black;
 }
 p {
-  color: green;
+  color: lime;
   text-align: center;
 }
 .border {
-  border: 1px solid green;
+  border: 1px solid lime;
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
